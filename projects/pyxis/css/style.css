@@ -1,0 +1,182 @@
+.footer {
+  
+  min-height: 60px;
+  width:100%;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #ffffff;
+}
+
+.hero-image {
+  background-image: url("../img/pyxis_home_banner.png"); 
+  min-height:380px;
+  width:auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 30px;
+}
+
+.hero-text{
+  color: #ffffff;
+  text-align: center;
+  padding-top: 10em;
+
+}
+.intro{
+  padding-top: 20px;
+}
+
+.intro-image{
+  float:right;
+}
+
+
+h2{
+  color:#9d6c35;
+}
+
+.btn btn-success{
+  color: #69ae4e;
+}
+
+
+
+body{
+  margin:15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.upcomingevents{
+  padding-top: 20px;
+}
+
+.row .home{
+  padding-top: 20px;
+}
+
+.col-sm-7{
+  padding: 15px;
+}
+
+.col-sm-5{
+  padding: 15px;
+}
+
+.col-sm-4{
+  text-align:center;
+  padding:20px;
+
+}
+
+.quote{
+  padding-top:30px;
+  padding-bottom: 30px;
+  color:#9d6c35;
+}
+.intro-text{
+  padding-top:30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.date-card{
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 60px;
+  margin-top: 7px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+
+}
+.card-month{
+  text-transform: uppercase;
+  font-size: 20px;
+  padding-bottom: 3px;
+  color: white;
+  background-color: #28a745 ;
+}
+.card-day{
+  font-size: 32px;
+  vertical-align: top;
+  line-height: 1;
+  padding: 10px;
+  color: #bcbcbc;
+}
+.card-event-name h3{
+  padding:20px;
+  font-size: 1.5rem;
+  min-height: 105px;
+}
+.card-event-name a{
+  text-decoration: none;
+  
+}
+
+.card-event-name .btn{
+  font-size: 0.75rem;
+
+}
+.event-info{
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+.event-details{
+  color:#6c757d;
+  padding:10px;
+}
+.section-content{
+  padding:10px;
+}
+.section-content h1, h2, h3{
+  color:#9d6c35;
+}
+.section-info{
+  padding-left:15px;
+  padding-right:30px;
+  padding-bottom:30px;
+  text-align: justify;
+}
+.section-title{
+  padding:15px;
+}
+/* .img-fluid.about-img{
+  border-radius: 50%;
+} */
+.container-fluid{
+  padding:15px;
+} 
+.img-round{
+  border-radius:50%;
+}
+.subsection{
+  padding:30px;
+}
+.section-img{
+  padding:10px;
+
+}
+.event-details-info{
+  text-align: center;
+  padding:10px;
+  ;
+}
+.event-details-card{
+  text-align: center;
+  padding:15px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+.event-details-info h3{
+ padding:30px;
+ font-size: 1.5rem;
+ min-height: 120px;
+}
+
+
+.event-details-card .btn{
+  font-size: 0.75rem;
+}
+
